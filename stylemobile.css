@@ -1,0 +1,27 @@
+#m1{
+    background-color: gray;
+    border: 7px solid rgb(221, 33, 149);
+    height: 500px;
+    
+
+}
+body{
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+#m1{
+padding-left: 250px;
+padding-top: 25px;
+}
+#m2{
+    height: 250px;
+   
+}
+#m3{
+    height: 250px;   
+}
+.size {
+    padding: 0;
+    text-align:center;
+}

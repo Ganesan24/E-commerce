@@ -1,0 +1,10 @@
+#f0{
+    height: 90px;
+    background-color: rgb(221, 33, 149);
+    border: 7px solid rgb(221, 33, 149);
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#f1 #f2{
+padding: auto;
+}

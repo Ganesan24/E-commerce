@@ -1,0 +1,18 @@
+body{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.p1{
+    background-color: gray;
+    padding-left: 450px;
+    border-bottom: 7px solid gray;
+}
+.p1 p{
+    background-color: white;
+    border: 10px solid white;
+}
+.pay{
+    background-color: rgb(150, 104, 136);
+   
+    padding-left: 100px;
+}
